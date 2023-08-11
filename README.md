@@ -1,9 +1,84 @@
-<h1 align="center">Hi 👋, I'm Minh Hoàng</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<!-- <img src="assets/gif/developer.gif" width="100%"/> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+    
+## Hi👋, I'm `Tri Do Nguyen`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### A Passionate Developer writing `Mobile Apps` since 2020. I've working with Android(Kotlin/Java), Flutter, NodeJs(TypeScript) and Python ❤
+
+</div>
+
+
+######
+
+<div align="center">
+    <img src="assets/gif/developer.gif" width="500px"/>
+</div>
+
+<div align="center">
+    
+| Language | `Java/Kotlin` `Python` `Dart` `TypeScript` |
+| :- | :- |
+| Tech | `Android` `Flutter` `NodeJs` |
+
+</div>
+
+<details>
+    <summary><b>Github Stats</b> 📊</summary>
+    <p align="center">
+        <img 
+            src="https://github-readme-stats.vercel.app/api?username=torrydo&count_private=true&show_icons=true&include_all_commits=true" 
+            alt="Tri Do | Stats" 
+        />
+    </p>
+
+</details>
+
+## What I'm doing now ? 👀
+
+- ⭐ Some Awesome Projects on `Google Play Store` 
+- 🎨 `Open Source` Contributor
+- 💌 Waiting for your next **Incredible Project**
+
+######
+
+## Reach me via 👇
+
+<div style="display: flex; justify-content: flex-start;">
+
+  <!-- GMAIL -->
+  <a href="mailto:tridonguyen.dev@gmail.com" title="Send Email" style="padding-right: 10px;">
+    <img src="assets/logo/Gmail.png" width="45" alt="Email" />
+  </a>
+
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/tridonguyen/" title="Redirect to LinkedIn" style="padding-right: 10px;">
+    <img src="assets/logo/LinkedIn.png" width="45" alt="LinkedIn" />
+  </a>
+  
+  <!-- FACEBOOK -->
+  <a href="https://www.facebook.com/trido392/" title="Redirect to Facebook" style="padding-right: 10px;">
+    <img src="assets/logo/Facebook.png" width="45" alt="Facebook" />
+  </a>
+
+  <!-- PLAY STORE -->
+  <a href="https://play.google.com/store/apps/developer?id=Langhance" title="Redirect to Google Play" style="padding-right: 10px;">
+    <img src="assets/logo/GooglePlay.png" width="45" alt="Google Play" />
+  </a>
+
+  <!-- TELEGRAM -->
+  <a href="https://t.me/tridonguyen" title="Redirect to Telegram" style="padding-right: 10px;">
+    <img src="assets/logo/Telegram.png" width="45" alt="Telegram" />
+  </a>
+
+  <!-- FIVERR -->
+  <a href="https://www.fiverr.com/tridonguyen" title="Redirect to Fiverr" style="padding-right: 10px;">
+    <img src="assets/logo/Fiverr.png" width="45" alt="Fiverr" />
+  </a>
+
+  <!-- UPWORK -->
+  <a href="https://www.upwork.com/freelancers/~01e2ce8a35ff551045" title="Redirect to Upwork" style="padding-right: 10px;">
+    <img src="assets/logo/Upwork.png" width="45" alt="Upwork" />
+  </a>
+
+</div>
