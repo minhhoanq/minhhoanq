@@ -4,7 +4,7 @@
     
 ## Hi👋, I'm `Hoang Minh`
 
-### A Passionate Developer writing `Web` since 2020. I've working with Android(Kotlin/Java), Flutter, NodeJs(TypeScript) and Python ❤
+<!-- ### A Passionate Developer writing `Web` since 2020. I've working with Android(Kotlin/Java), Flutter, NodeJs(TypeScript) and Python ❤ -->
 
 </div>
 
